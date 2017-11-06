@@ -1,5 +1,6 @@
 {
 "strict": true,
 "esversion": 6,
-"evil": true
+"evil": true,
+"strict": false
 }
